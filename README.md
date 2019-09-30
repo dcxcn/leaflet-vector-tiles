@@ -1,2 +1,8 @@
-# leaflet-vector-tiles
-后端实时产生geotiles格式的切片(指定浏览器强制缓存），前端使用leaflet加载矢量切片
+
+
+
+后端实时产生geojson格式的矢量切片（自己用springboot+geotools实现），前端使用leaflet加载。用到了浏览器的强制缓存。
+
+## 参考
+
+[LawAlias/loadLocalVectorTiles](https://github.com/LawAlias/loadLocalVectorTiles)
